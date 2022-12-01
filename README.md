@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Md AbuZar Khan
-- 👀 I’m interested in HuMan Data Science
-- 🌱 I’m currently working on informatics and big data units
-- 💞️ I’m looking to collaborate on Data science projects  
-- 📫 you can find me here md2002766@st.jmi.ac.in
+- 👋 Myself Mohammaed AbuZar Khan
+- 👀 I’m interested in Human Data Science(Bioinformatics)
+- 🌱 I’m currently working on a project entitled informatics and big data units & AMR Phenotype Prediction Using Deep learning and Machine Learning
+- 💞️ I’m looking to collaborate on Data science(Bioinformatics) projects  
+- 📫 You can find me here md2002766@st.jmi.ac.in
 
 
